@@ -185,11 +185,11 @@ weather
 | /* | /404 | 🔴 | 🔴 |
 
 # 실행 명령 안내
-dev 서버 실행 : `npm run serve`
-build 실행 : `npm run build`
-test 코드 실행 : `npm run test`
-test 코드 실행(watch모드, 커밋 기준 변경점만 테스트) : `npm run test:watch`
-test 코드 실행(watchAll모드, 커밋 기준 변경점만 테스트) : `npm run test:watch-all`
-lint 검사 : `npm run lint`
-docker 이미지 생성: `npm run docker:build`
-docker 컨테이너 실행: `npm run docker:run`
+- dev 서버 실행 : `npm run serve`
+- build 실행 : `npm run build`
+- test 코드 실행 : `npm run test`
+- test 코드 실행(watch모드, 커밋 기준 변경점만 테스트) : `npm run test:watch`
+- test 코드 실행(watchAll모드, 커밋 기준 변경점만 테스트) : `npm run test:watch-all`
+- lint 검사 : `npm run lint`
+- docker 이미지 생성: `npm run docker:build`
+- docker 컨테이너 실행: `npm run docker:run`
