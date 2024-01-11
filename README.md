@@ -12,6 +12,7 @@
 
 `오늘의 날씨`는 위치 기반 날씨 정보 제공 서비스를 합니다.
 - ❗️ [화면 기획서](https://whimsical.com/EEw7ztv5jHRTJoBLT2hAAP)
+- cf) [애플리케이션 구조 고민 글](https://deeply-drawbridge-19c.notion.site/fbb0ce90a5be42c5b6543ded0e92ca17)
 
 # 기술 스택
 - vue
